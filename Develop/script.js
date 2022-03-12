@@ -1,11 +1,11 @@
-var saveButton = $("#savefunct");
+var saveButton = $("#save");
 
 var messageText = $('.col-10 textarea');
 
 
 var alertButtonEl = $('#alert-btn');
 
-var arr = ["car","bus","plane",];
+
 
 
 renderLastRegistered();
